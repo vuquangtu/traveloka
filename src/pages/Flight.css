@@ -1,0 +1,18 @@
+
+.slider-wrapper .img-list{
+    scrollbar-width: none;
+}
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.5); /* Màu đen với độ trong suốt 50% */
+  z-index: 30; /* Đảm bảo lớp này nằm trên tất cả các phần tử khác */
+}
+.black {
+    position: relative; /* Đảm bảo phần tử này nằm trên overlay */
+    z-index: 31; /* Đảm bảo nổi bật hơn so với phần overlay */
+    background-color: /* Màu nền bạn muốn áp dụng */;
+  }

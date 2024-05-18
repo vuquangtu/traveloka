@@ -1,0 +1,1452 @@
+[
+  {
+    "id1": 226,
+    "hotel_id": 51,
+    "hotel_utility_id": 2
+  },
+  {
+    "id1": 227,
+    "hotel_id": 51,
+    "hotel_utility_id": 4
+  },
+  {
+    "id1": 228,
+    "hotel_id": 51,
+    "hotel_utility_id": 3
+  },
+  {
+    "id1": 229,
+    "hotel_id": 51,
+    "hotel_utility_id": 10
+  },
+  {
+    "id1": 230,
+    "hotel_id": 51,
+    "hotel_utility_id": 12
+  },
+  {
+    "id1": 231,
+    "hotel_id": 51,
+    "hotel_utility_id": 13
+  },
+  {
+    "id1": 232,
+    "hotel_id": 51,
+    "hotel_utility_id": 8
+  },
+  {
+    "id1": 233,
+    "hotel_id": 51,
+    "hotel_utility_id": 14
+  },
+  {
+    "id1": 234,
+    "hotel_id": 51,
+    "hotel_utility_id": 15
+  },
+  {
+    "id1": 235,
+    "hotel_id": 51,
+    "hotel_utility_id": 16
+  },
+  {
+    "id1": 236,
+    "hotel_id": 51,
+    "hotel_utility_id": 19
+  },
+  {
+    "id1": 237,
+    "hotel_id": 51,
+    "hotel_utility_id": 25
+  },
+  {
+    "id1": 238,
+    "hotel_id": 51,
+    "hotel_utility_id": 22
+  },
+  {
+    "id1": 239,
+    "hotel_id": 51,
+    "hotel_utility_id": 24
+  },
+  {
+    "id1": 240,
+    "hotel_id": 51,
+    "hotel_utility_id": 23
+  },
+  {
+    "id1": 241,
+    "hotel_id": 51,
+    "hotel_utility_id": 20
+  },
+  {
+    "id1": 242,
+    "hotel_id": 51,
+    "hotel_utility_id": 26
+  },
+  {
+    "id1": 243,
+    "hotel_id": 51,
+    "hotel_utility_id": 28
+  },
+  {
+    "id1": 244,
+    "hotel_id": 51,
+    "hotel_utility_id": 30
+  },
+  {
+    "id1": 245,
+    "hotel_id": 51,
+    "hotel_utility_id": 29
+  },
+  {
+    "id1": 246,
+    "hotel_id": 51,
+    "hotel_utility_id": 27
+  },
+  {
+    "id1": 247,
+    "hotel_id": 51,
+    "hotel_utility_id": 33
+  },
+  {
+    "id1": 248,
+    "hotel_id": 51,
+    "hotel_utility_id": 32
+  },
+  {
+    "id1": 249,
+    "hotel_id": 51,
+    "hotel_utility_id": 36
+  },
+  {
+    "id1": 250,
+    "hotel_id": 51,
+    "hotel_utility_id": 37
+  },
+  {
+    "id1": 251,
+    "hotel_id": 51,
+    "hotel_utility_id": 40
+  },
+  {
+    "id1": 252,
+    "hotel_id": 51,
+    "hotel_utility_id": 41
+  },
+  {
+    "id1": 253,
+    "hotel_id": 51,
+    "hotel_utility_id": 39
+  },
+  {
+    "id1": 254,
+    "hotel_id": 51,
+    "hotel_utility_id": 46
+  },
+  {
+    "id1": 255,
+    "hotel_id": 51,
+    "hotel_utility_id": 44
+  },
+  {
+    "id1": 256,
+    "hotel_id": 52,
+    "hotel_utility_id": 2
+  },
+  {
+    "id1": 257,
+    "hotel_id": 52,
+    "hotel_utility_id": 4
+  },
+  {
+    "id1": 258,
+    "hotel_id": 52,
+    "hotel_utility_id": 3
+  },
+  {
+    "id1": 259,
+    "hotel_id": 52,
+    "hotel_utility_id": 5
+  },
+  {
+    "id1": 260,
+    "hotel_id": 52,
+    "hotel_utility_id": 10
+  },
+  {
+    "id1": 261,
+    "hotel_id": 52,
+    "hotel_utility_id": 12
+  },
+  {
+    "id1": 262,
+    "hotel_id": 52,
+    "hotel_utility_id": 16
+  },
+  {
+    "id1": 263,
+    "hotel_id": 52,
+    "hotel_utility_id": 17
+  },
+  {
+    "id1": 264,
+    "hotel_id": 52,
+    "hotel_utility_id": 18
+  },
+  {
+    "id1": 265,
+    "hotel_id": 52,
+    "hotel_utility_id": 26
+  },
+  {
+    "id1": 266,
+    "hotel_id": 52,
+    "hotel_utility_id": 21
+  },
+  {
+    "id1": 267,
+    "hotel_id": 52,
+    "hotel_utility_id": 36
+  },
+  {
+    "id1": 268,
+    "hotel_id": 52,
+    "hotel_utility_id": 39
+  },
+  {
+    "id1": 269,
+    "hotel_id": 52,
+    "hotel_utility_id": 38
+  },
+  {
+    "id1": 270,
+    "hotel_id": 52,
+    "hotel_utility_id": 42
+  },
+  {
+    "id1": 271,
+    "hotel_id": 52,
+    "hotel_utility_id": 43
+  },
+  {
+    "id1": 272,
+    "hotel_id": 52,
+    "hotel_utility_id": 45
+  },
+  {
+    "id1": 273,
+    "hotel_id": 52,
+    "hotel_utility_id": 48
+  },
+  {
+    "id1": 274,
+    "hotel_id": 52,
+    "hotel_utility_id": 47
+  },
+  {
+    "id1": 275,
+    "hotel_id": 53,
+    "hotel_utility_id": 5
+  },
+  {
+    "id1": 276,
+    "hotel_id": 53,
+    "hotel_utility_id": 6
+  },
+  {
+    "id1": 277,
+    "hotel_id": 53,
+    "hotel_utility_id": 1
+  },
+  {
+    "id1": 278,
+    "hotel_id": 53,
+    "hotel_utility_id": 7
+  },
+  {
+    "id1": 279,
+    "hotel_id": 53,
+    "hotel_utility_id": 12
+  },
+  {
+    "id1": 280,
+    "hotel_id": 53,
+    "hotel_utility_id": 13
+  },
+  {
+    "id1": 281,
+    "hotel_id": 53,
+    "hotel_utility_id": 8
+  },
+  {
+    "id1": 282,
+    "hotel_id": 53,
+    "hotel_utility_id": 11
+  },
+  {
+    "id1": 283,
+    "hotel_id": 53,
+    "hotel_utility_id": 15
+  },
+  {
+    "id1": 284,
+    "hotel_id": 53,
+    "hotel_utility_id": 16
+  },
+  {
+    "id1": 285,
+    "hotel_id": 53,
+    "hotel_utility_id": 17
+  },
+  {
+    "id1": 286,
+    "hotel_id": 53,
+    "hotel_utility_id": 19
+  },
+  {
+    "id1": 287,
+    "hotel_id": 53,
+    "hotel_utility_id": 25
+  },
+  {
+    "id1": 288,
+    "hotel_id": 53,
+    "hotel_utility_id": 22
+  },
+  {
+    "id1": 289,
+    "hotel_id": 53,
+    "hotel_utility_id": 24
+  },
+  {
+    "id1": 290,
+    "hotel_id": 53,
+    "hotel_utility_id": 23
+  },
+  {
+    "id1": 291,
+    "hotel_id": 53,
+    "hotel_utility_id": 28
+  },
+  {
+    "id1": 292,
+    "hotel_id": 53,
+    "hotel_utility_id": 30
+  },
+  {
+    "id1": 293,
+    "hotel_id": 53,
+    "hotel_utility_id": 29
+  },
+  {
+    "id1": 294,
+    "hotel_id": 53,
+    "hotel_utility_id": 27
+  },
+  {
+    "id1": 295,
+    "hotel_id": 53,
+    "hotel_utility_id": 33
+  },
+  {
+    "id1": 296,
+    "hotel_id": 53,
+    "hotel_utility_id": 32
+  },
+  {
+    "id1": 297,
+    "hotel_id": 53,
+    "hotel_utility_id": 34
+  },
+  {
+    "id1": 298,
+    "hotel_id": 53,
+    "hotel_utility_id": 36
+  },
+  {
+    "id1": 299,
+    "hotel_id": 53,
+    "hotel_utility_id": 37
+  },
+  {
+    "id1": 300,
+    "hotel_id": 53,
+    "hotel_utility_id": 40
+  },
+  {
+    "id1": 301,
+    "hotel_id": 53,
+    "hotel_utility_id": 41
+  },
+  {
+    "id1": 302,
+    "hotel_id": 53,
+    "hotel_utility_id": 46
+  },
+  {
+    "id1": 303,
+    "hotel_id": 53,
+    "hotel_utility_id": 44
+  },
+  {
+    "id1": 304,
+    "hotel_id": 53,
+    "hotel_utility_id": 48
+  },
+  {
+    "id1": 305,
+    "hotel_id": 54,
+    "hotel_utility_id": 2
+  },
+  {
+    "id1": 306,
+    "hotel_id": 54,
+    "hotel_utility_id": 4
+  },
+  {
+    "id1": 307,
+    "hotel_id": 54,
+    "hotel_utility_id": 3
+  },
+  {
+    "id1": 308,
+    "hotel_id": 54,
+    "hotel_utility_id": 1
+  },
+  {
+    "id1": 309,
+    "hotel_id": 54,
+    "hotel_utility_id": 12
+  },
+  {
+    "id1": 310,
+    "hotel_id": 54,
+    "hotel_utility_id": 13
+  },
+  {
+    "id1": 311,
+    "hotel_id": 54,
+    "hotel_utility_id": 8
+  },
+  {
+    "id1": 312,
+    "hotel_id": 54,
+    "hotel_utility_id": 11
+  },
+  {
+    "id1": 313,
+    "hotel_id": 54,
+    "hotel_utility_id": 15
+  },
+  {
+    "id1": 314,
+    "hotel_id": 54,
+    "hotel_utility_id": 16
+  },
+  {
+    "id1": 315,
+    "hotel_id": 54,
+    "hotel_utility_id": 19
+  },
+  {
+    "id1": 316,
+    "hotel_id": 54,
+    "hotel_utility_id": 25
+  },
+  {
+    "id1": 317,
+    "hotel_id": 54,
+    "hotel_utility_id": 22
+  },
+  {
+    "id1": 318,
+    "hotel_id": 54,
+    "hotel_utility_id": 24
+  },
+  {
+    "id1": 319,
+    "hotel_id": 54,
+    "hotel_utility_id": 20
+  },
+  {
+    "id1": 320,
+    "hotel_id": 54,
+    "hotel_utility_id": 28
+  },
+  {
+    "id1": 321,
+    "hotel_id": 54,
+    "hotel_utility_id": 29
+  },
+  {
+    "id1": 322,
+    "hotel_id": 54,
+    "hotel_utility_id": 31
+  },
+  {
+    "id1": 323,
+    "hotel_id": 54,
+    "hotel_utility_id": 32
+  },
+  {
+    "id1": 324,
+    "hotel_id": 54,
+    "hotel_utility_id": 34
+  },
+  {
+    "id1": 325,
+    "hotel_id": 54,
+    "hotel_utility_id": 36
+  },
+  {
+    "id1": 326,
+    "hotel_id": 54,
+    "hotel_utility_id": 37
+  },
+  {
+    "id1": 327,
+    "hotel_id": 54,
+    "hotel_utility_id": 40
+  },
+  {
+    "id1": 328,
+    "hotel_id": 54,
+    "hotel_utility_id": 41
+  },
+  {
+    "id1": 329,
+    "hotel_id": 54,
+    "hotel_utility_id": 46
+  },
+  {
+    "id1": 330,
+    "hotel_id": 54,
+    "hotel_utility_id": 44
+  },
+  {
+    "id1": 331,
+    "hotel_id": 54,
+    "hotel_utility_id": 47
+  },
+  {
+    "id1": 332,
+    "hotel_id": 55,
+    "hotel_utility_id": 3
+  },
+  {
+    "id1": 333,
+    "hotel_id": 55,
+    "hotel_utility_id": 5
+  },
+  {
+    "id1": 334,
+    "hotel_id": 55,
+    "hotel_utility_id": 6
+  },
+  {
+    "id1": 335,
+    "hotel_id": 55,
+    "hotel_utility_id": 1
+  },
+  {
+    "id1": 336,
+    "hotel_id": 55,
+    "hotel_utility_id": 8
+  },
+  {
+    "id1": 337,
+    "hotel_id": 55,
+    "hotel_utility_id": 11
+  },
+  {
+    "id1": 338,
+    "hotel_id": 55,
+    "hotel_utility_id": 9
+  },
+  {
+    "id1": 339,
+    "hotel_id": 55,
+    "hotel_utility_id": 15
+  },
+  {
+    "id1": 340,
+    "hotel_id": 55,
+    "hotel_utility_id": 16
+  },
+  {
+    "id1": 341,
+    "hotel_id": 55,
+    "hotel_utility_id": 17
+  },
+  {
+    "id1": 342,
+    "hotel_id": 55,
+    "hotel_utility_id": 19
+  },
+  {
+    "id1": 343,
+    "hotel_id": 55,
+    "hotel_utility_id": 25
+  },
+  {
+    "id1": 344,
+    "hotel_id": 55,
+    "hotel_utility_id": 22
+  },
+  {
+    "id1": 345,
+    "hotel_id": 55,
+    "hotel_utility_id": 23
+  },
+  {
+    "id1": 346,
+    "hotel_id": 55,
+    "hotel_utility_id": 20
+  },
+  {
+    "id1": 347,
+    "hotel_id": 56,
+    "hotel_utility_id": 5
+  },
+  {
+    "id1": 348,
+    "hotel_id": 56,
+    "hotel_utility_id": 11
+  },
+  {
+    "id1": 349,
+    "hotel_id": 56,
+    "hotel_utility_id": 9
+  },
+  {
+    "id1": 350,
+    "hotel_id": 56,
+    "hotel_utility_id": 15
+  },
+  {
+    "id1": 351,
+    "hotel_id": 56,
+    "hotel_utility_id": 16
+  },
+  {
+    "id1": 352,
+    "hotel_id": 56,
+    "hotel_utility_id": 17
+  },
+  {
+    "id1": 353,
+    "hotel_id": 56,
+    "hotel_utility_id": 18
+  },
+  {
+    "id1": 354,
+    "hotel_id": 56,
+    "hotel_utility_id": 22
+  },
+  {
+    "id1": 355,
+    "hotel_id": 56,
+    "hotel_utility_id": 24
+  },
+  {
+    "id1": 356,
+    "hotel_id": 56,
+    "hotel_utility_id": 23
+  },
+  {
+    "id1": 357,
+    "hotel_id": 56,
+    "hotel_utility_id": 30
+  },
+  {
+    "id1": 358,
+    "hotel_id": 56,
+    "hotel_utility_id": 27
+  },
+  {
+    "id1": 359,
+    "hotel_id": 56,
+    "hotel_utility_id": 31
+  },
+  {
+    "id1": 360,
+    "hotel_id": 56,
+    "hotel_utility_id": 34
+  },
+  {
+    "id1": 361,
+    "hotel_id": 56,
+    "hotel_utility_id": 35
+  },
+  {
+    "id1": 362,
+    "hotel_id": 57,
+    "hotel_utility_id": 5
+  },
+  {
+    "id1": 363,
+    "hotel_id": 57,
+    "hotel_utility_id": 6
+  },
+  {
+    "id1": 364,
+    "hotel_id": 57,
+    "hotel_utility_id": 1
+  },
+  {
+    "id1": 365,
+    "hotel_id": 57,
+    "hotel_utility_id": 8
+  },
+  {
+    "id1": 366,
+    "hotel_id": 57,
+    "hotel_utility_id": 11
+  },
+  {
+    "id1": 367,
+    "hotel_id": 57,
+    "hotel_utility_id": 9
+  },
+  {
+    "id1": 368,
+    "hotel_id": 57,
+    "hotel_utility_id": 36
+  },
+  {
+    "id1": 369,
+    "hotel_id": 58,
+    "hotel_utility_id": 2
+  },
+  {
+    "id1": 370,
+    "hotel_id": 58,
+    "hotel_utility_id": 4
+  },
+  {
+    "id1": 371,
+    "hotel_id": 58,
+    "hotel_utility_id": 3
+  },
+  {
+    "id1": 372,
+    "hotel_id": 58,
+    "hotel_utility_id": 5
+  },
+  {
+    "id1": 373,
+    "hotel_id": 58,
+    "hotel_utility_id": 6
+  },
+  {
+    "id1": 374,
+    "hotel_id": 58,
+    "hotel_utility_id": 12
+  },
+  {
+    "id1": 375,
+    "hotel_id": 58,
+    "hotel_utility_id": 13
+  },
+  {
+    "id1": 376,
+    "hotel_id": 58,
+    "hotel_utility_id": 8
+  },
+  {
+    "id1": 377,
+    "hotel_id": 58,
+    "hotel_utility_id": 11
+  },
+  {
+    "id1": 378,
+    "hotel_id": 58,
+    "hotel_utility_id": 9
+  },
+  {
+    "id1": 379,
+    "hotel_id": 58,
+    "hotel_utility_id": 14
+  },
+  {
+    "id1": 380,
+    "hotel_id": 58,
+    "hotel_utility_id": 15
+  },
+  {
+    "id1": 381,
+    "hotel_id": 58,
+    "hotel_utility_id": 16
+  },
+  {
+    "id1": 382,
+    "hotel_id": 58,
+    "hotel_utility_id": 17
+  },
+  {
+    "id1": 383,
+    "hotel_id": 58,
+    "hotel_utility_id": 19
+  },
+  {
+    "id1": 384,
+    "hotel_id": 58,
+    "hotel_utility_id": 18
+  },
+  {
+    "id1": 385,
+    "hotel_id": 58,
+    "hotel_utility_id": 25
+  },
+  {
+    "id1": 386,
+    "hotel_id": 58,
+    "hotel_utility_id": 22
+  },
+  {
+    "id1": 387,
+    "hotel_id": 58,
+    "hotel_utility_id": 23
+  },
+  {
+    "id1": 388,
+    "hotel_id": 58,
+    "hotel_utility_id": 20
+  },
+  {
+    "id1": 389,
+    "hotel_id": 58,
+    "hotel_utility_id": 26
+  },
+  {
+    "id1": 390,
+    "hotel_id": 59,
+    "hotel_utility_id": 3
+  },
+  {
+    "id1": 391,
+    "hotel_id": 59,
+    "hotel_utility_id": 5
+  },
+  {
+    "id1": 392,
+    "hotel_id": 59,
+    "hotel_utility_id": 6
+  },
+  {
+    "id1": 393,
+    "hotel_id": 59,
+    "hotel_utility_id": 1
+  },
+  {
+    "id1": 394,
+    "hotel_id": 59,
+    "hotel_utility_id": 13
+  },
+  {
+    "id1": 395,
+    "hotel_id": 59,
+    "hotel_utility_id": 8
+  },
+  {
+    "id1": 396,
+    "hotel_id": 59,
+    "hotel_utility_id": 11
+  },
+  {
+    "id1": 397,
+    "hotel_id": 59,
+    "hotel_utility_id": 9
+  },
+  {
+    "id1": 398,
+    "hotel_id": 59,
+    "hotel_utility_id": 15
+  },
+  {
+    "id1": 399,
+    "hotel_id": 59,
+    "hotel_utility_id": 16
+  },
+  {
+    "id1": 400,
+    "hotel_id": 59,
+    "hotel_utility_id": 17
+  },
+  {
+    "id1": 401,
+    "hotel_id": 59,
+    "hotel_utility_id": 19
+  },
+  {
+    "id1": 402,
+    "hotel_id": 59,
+    "hotel_utility_id": 25
+  },
+  {
+    "id1": 403,
+    "hotel_id": 59,
+    "hotel_utility_id": 22
+  },
+  {
+    "id1": 404,
+    "hotel_id": 59,
+    "hotel_utility_id": 24
+  },
+  {
+    "id1": 405,
+    "hotel_id": 59,
+    "hotel_utility_id": 23
+  },
+  {
+    "id1": 406,
+    "hotel_id": 59,
+    "hotel_utility_id": 20
+  },
+  {
+    "id1": 407,
+    "hotel_id": 59,
+    "hotel_utility_id": 30
+  },
+  {
+    "id1": 408,
+    "hotel_id": 59,
+    "hotel_utility_id": 29
+  },
+  {
+    "id1": 409,
+    "hotel_id": 59,
+    "hotel_utility_id": 27
+  },
+  {
+    "id1": 410,
+    "hotel_id": 59,
+    "hotel_utility_id": 31
+  },
+  {
+    "id1": 411,
+    "hotel_id": 59,
+    "hotel_utility_id": 32
+  },
+  {
+    "id1": 412,
+    "hotel_id": 59,
+    "hotel_utility_id": 34
+  },
+  {
+    "id1": 413,
+    "hotel_id": 59,
+    "hotel_utility_id": 35
+  },
+  {
+    "id1": 414,
+    "hotel_id": 59,
+    "hotel_utility_id": 36
+  },
+  {
+    "id1": 415,
+    "hotel_id": 59,
+    "hotel_utility_id": 40
+  },
+  {
+    "id1": 416,
+    "hotel_id": 59,
+    "hotel_utility_id": 41
+  },
+  {
+    "id1": 417,
+    "hotel_id": 59,
+    "hotel_utility_id": 39
+  },
+  {
+    "id1": 418,
+    "hotel_id": 59,
+    "hotel_utility_id": 38
+  },
+  {
+    "id1": 419,
+    "hotel_id": 59,
+    "hotel_utility_id": 46
+  },
+  {
+    "id1": 420,
+    "hotel_id": 59,
+    "hotel_utility_id": 44
+  },
+  {
+    "id1": 421,
+    "hotel_id": 59,
+    "hotel_utility_id": 43
+  },
+  {
+    "id1": 422,
+    "hotel_id": 60,
+    "hotel_utility_id": 4
+  },
+  {
+    "id1": 423,
+    "hotel_id": 60,
+    "hotel_utility_id": 5
+  },
+  {
+    "id1": 424,
+    "hotel_id": 60,
+    "hotel_utility_id": 6
+  },
+  {
+    "id1": 425,
+    "hotel_id": 60,
+    "hotel_utility_id": 1
+  },
+  {
+    "id1": 426,
+    "hotel_id": 60,
+    "hotel_utility_id": 10
+  },
+  {
+    "id1": 427,
+    "hotel_id": 60,
+    "hotel_utility_id": 8
+  },
+  {
+    "id1": 428,
+    "hotel_id": 60,
+    "hotel_utility_id": 14
+  },
+  {
+    "id1": 429,
+    "hotel_id": 60,
+    "hotel_utility_id": 15
+  },
+  {
+    "id1": 430,
+    "hotel_id": 60,
+    "hotel_utility_id": 36
+  },
+  {
+    "id1": 431,
+    "hotel_id": 60,
+    "hotel_utility_id": 46
+  },
+  {
+    "id1": 432,
+    "hotel_id": 60,
+    "hotel_utility_id": 43
+  },
+  {
+    "id1": 433,
+    "hotel_id": 60,
+    "hotel_utility_id": 47
+  },
+  {
+    "id1": 434,
+    "hotel_id": 61,
+    "hotel_utility_id": 1
+  },
+  {
+    "id1": 435,
+    "hotel_id": 61,
+    "hotel_utility_id": 13
+  },
+  {
+    "id1": 436,
+    "hotel_id": 61,
+    "hotel_utility_id": 8
+  },
+  {
+    "id1": 437,
+    "hotel_id": 61,
+    "hotel_utility_id": 11
+  },
+  {
+    "id1": 438,
+    "hotel_id": 61,
+    "hotel_utility_id": 9
+  },
+  {
+    "id1": 439,
+    "hotel_id": 61,
+    "hotel_utility_id": 15
+  },
+  {
+    "id1": 440,
+    "hotel_id": 61,
+    "hotel_utility_id": 16
+  },
+  {
+    "id1": 441,
+    "hotel_id": 61,
+    "hotel_utility_id": 17
+  },
+  {
+    "id1": 442,
+    "hotel_id": 61,
+    "hotel_utility_id": 18
+  },
+  {
+    "id1": 443,
+    "hotel_id": 61,
+    "hotel_utility_id": 22
+  },
+  {
+    "id1": 444,
+    "hotel_id": 61,
+    "hotel_utility_id": 24
+  },
+  {
+    "id1": 445,
+    "hotel_id": 61,
+    "hotel_utility_id": 23
+  },
+  {
+    "id1": 446,
+    "hotel_id": 61,
+    "hotel_utility_id": 20
+  },
+  {
+    "id1": 447,
+    "hotel_id": 61,
+    "hotel_utility_id": 26
+  },
+  {
+    "id1": 448,
+    "hotel_id": 61,
+    "hotel_utility_id": 30
+  },
+  {
+    "id1": 449,
+    "hotel_id": 61,
+    "hotel_utility_id": 29
+  },
+  {
+    "id1": 450,
+    "hotel_id": 61,
+    "hotel_utility_id": 31
+  },
+  {
+    "id1": 451,
+    "hotel_id": 61,
+    "hotel_utility_id": 32
+  },
+  {
+    "id1": 452,
+    "hotel_id": 61,
+    "hotel_utility_id": 34
+  },
+  {
+    "id1": 453,
+    "hotel_id": 61,
+    "hotel_utility_id": 35
+  },
+  {
+    "id1": 454,
+    "hotel_id": 61,
+    "hotel_utility_id": 36
+  },
+  {
+    "id1": 455,
+    "hotel_id": 61,
+    "hotel_utility_id": 48
+  },
+  {
+    "id1": 456,
+    "hotel_id": 61,
+    "hotel_utility_id": 47
+  },
+  {
+    "id1": 457,
+    "hotel_id": 62,
+    "hotel_utility_id": 6
+  },
+  {
+    "id1": 458,
+    "hotel_id": 62,
+    "hotel_utility_id": 1
+  },
+  {
+    "id1": 459,
+    "hotel_id": 62,
+    "hotel_utility_id": 7
+  },
+  {
+    "id1": 460,
+    "hotel_id": 62,
+    "hotel_utility_id": 13
+  },
+  {
+    "id1": 461,
+    "hotel_id": 62,
+    "hotel_utility_id": 8
+  },
+  {
+    "id1": 462,
+    "hotel_id": 62,
+    "hotel_utility_id": 11
+  },
+  {
+    "id1": 463,
+    "hotel_id": 62,
+    "hotel_utility_id": 15
+  },
+  {
+    "id1": 464,
+    "hotel_id": 62,
+    "hotel_utility_id": 16
+  },
+  {
+    "id1": 465,
+    "hotel_id": 62,
+    "hotel_utility_id": 17
+  },
+  {
+    "id1": 466,
+    "hotel_id": 62,
+    "hotel_utility_id": 18
+  },
+  {
+    "id1": 467,
+    "hotel_id": 62,
+    "hotel_utility_id": 22
+  },
+  {
+    "id1": 468,
+    "hotel_id": 62,
+    "hotel_utility_id": 24
+  },
+  {
+    "id1": 469,
+    "hotel_id": 62,
+    "hotel_utility_id": 23
+  },
+  {
+    "id1": 470,
+    "hotel_id": 62,
+    "hotel_utility_id": 20
+  },
+  {
+    "id1": 471,
+    "hotel_id": 62,
+    "hotel_utility_id": 29
+  },
+  {
+    "id1": 472,
+    "hotel_id": 62,
+    "hotel_utility_id": 27
+  },
+  {
+    "id1": 473,
+    "hotel_id": 62,
+    "hotel_utility_id": 31
+  },
+  {
+    "id1": 474,
+    "hotel_id": 62,
+    "hotel_utility_id": 32
+  },
+  {
+    "id1": 475,
+    "hotel_id": 62,
+    "hotel_utility_id": 34
+  },
+  {
+    "id1": 476,
+    "hotel_id": 62,
+    "hotel_utility_id": 36
+  },
+  {
+    "id1": 477,
+    "hotel_id": 62,
+    "hotel_utility_id": 44
+  },
+  {
+    "id1": 478,
+    "hotel_id": 62,
+    "hotel_utility_id": 43
+  },
+  {
+    "id1": 479,
+    "hotel_id": 62,
+    "hotel_utility_id": 47
+  },
+  {
+    "id1": 480,
+    "hotel_id": 63,
+    "hotel_utility_id": 3
+  },
+  {
+    "id1": 481,
+    "hotel_id": 63,
+    "hotel_utility_id": 5
+  },
+  {
+    "id1": 482,
+    "hotel_id": 63,
+    "hotel_utility_id": 1
+  },
+  {
+    "id1": 483,
+    "hotel_id": 63,
+    "hotel_utility_id": 7
+  },
+  {
+    "id1": 484,
+    "hotel_id": 63,
+    "hotel_utility_id": 10
+  },
+  {
+    "id1": 485,
+    "hotel_id": 63,
+    "hotel_utility_id": 12
+  },
+  {
+    "id1": 486,
+    "hotel_id": 63,
+    "hotel_utility_id": 13
+  },
+  {
+    "id1": 487,
+    "hotel_id": 63,
+    "hotel_utility_id": 33
+  },
+  {
+    "id1": 488,
+    "hotel_id": 63,
+    "hotel_utility_id": 32
+  },
+  {
+    "id1": 489,
+    "hotel_id": 63,
+    "hotel_utility_id": 34
+  },
+  {
+    "id1": 490,
+    "hotel_id": 63,
+    "hotel_utility_id": 35
+  },
+  {
+    "id1": 491,
+    "hotel_id": 63,
+    "hotel_utility_id": 36
+  },
+  {
+    "id1": 492,
+    "hotel_id": 63,
+    "hotel_utility_id": 41
+  },
+  {
+    "id1": 493,
+    "hotel_id": 63,
+    "hotel_utility_id": 39
+  },
+  {
+    "id1": 494,
+    "hotel_id": 63,
+    "hotel_utility_id": 38
+  },
+  {
+    "id1": 495,
+    "hotel_id": 63,
+    "hotel_utility_id": 42
+  },
+  {
+    "id1": 496,
+    "hotel_id": 63,
+    "hotel_utility_id": 44
+  },
+  {
+    "id1": 497,
+    "hotel_id": 63,
+    "hotel_utility_id": 43
+  },
+  {
+    "id1": 498,
+    "hotel_id": 63,
+    "hotel_utility_id": 48
+  },
+  {
+    "id1": 499,
+    "hotel_id": 63,
+    "hotel_utility_id": 47
+  },
+  {
+    "id1": 500,
+    "hotel_id": 64,
+    "hotel_utility_id": 2
+  },
+  {
+    "id1": 501,
+    "hotel_id": 64,
+    "hotel_utility_id": 4
+  },
+  {
+    "id1": 502,
+    "hotel_id": 64,
+    "hotel_utility_id": 10
+  },
+  {
+    "id1": 503,
+    "hotel_id": 64,
+    "hotel_utility_id": 12
+  },
+  {
+    "id1": 504,
+    "hotel_id": 65,
+    "hotel_utility_id": 4
+  },
+  {
+    "id1": 505,
+    "hotel_id": 65,
+    "hotel_utility_id": 5
+  },
+  {
+    "id1": 506,
+    "hotel_id": 65,
+    "hotel_utility_id": 6
+  },
+  {
+    "id1": 507,
+    "hotel_id": 65,
+    "hotel_utility_id": 7
+  },
+  {
+    "id1": 508,
+    "hotel_id": 65,
+    "hotel_utility_id": 10
+  },
+  {
+    "id1": 509,
+    "hotel_id": 65,
+    "hotel_utility_id": 12
+  },
+  {
+    "id1": 510,
+    "hotel_id": 65,
+    "hotel_utility_id": 16
+  },
+  {
+    "id1": 511,
+    "hotel_id": 65,
+    "hotel_utility_id": 19
+  },
+  {
+    "id1": 512,
+    "hotel_id": 65,
+    "hotel_utility_id": 22
+  },
+  {
+    "id1": 513,
+    "hotel_id": 65,
+    "hotel_utility_id": 24
+  },
+  {
+    "id1": 514,
+    "hotel_id": 65,
+    "hotel_utility_id": 23
+  },
+  {
+    "id1": 515,
+    "hotel_id": 65,
+    "hotel_utility_id": 36
+  }
+]

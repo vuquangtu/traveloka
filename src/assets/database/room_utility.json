@@ -1,0 +1,452 @@
+[
+  {
+    "id1": 1,
+    "name": "Máy lạnh",
+    "room_utility_type_id": 1
+  },
+  {
+    "id1": 2,
+    "name": "Quầy bar mini",
+    "room_utility_type_id": 1
+  },
+  {
+    "id1": 3,
+    "name": "Bàn làm việc",
+    "room_utility_type_id": 1
+  },
+  {
+    "id1": 4,
+    "name": "Rèm cửa / màn che",
+    "room_utility_type_id": 1
+  },
+  {
+    "id1": 5,
+    "name": "Nước đóng chai miễn phí",
+    "room_utility_type_id": 1
+  },
+  {
+    "id1": 6,
+    "name": "TV",
+    "room_utility_type_id": 1
+  },
+  {
+    "id1": 7,
+    "name": "Két an toàn tại phòng",
+    "room_utility_type_id": 1
+  },
+  {
+    "id1": 8,
+    "name": "Phòng tắm riêng",
+    "room_utility_type_id": 2
+  },
+  {
+    "id1": 9,
+    "name": "Bộ vệ sinh cá nhân",
+    "room_utility_type_id": 2
+  },
+  {
+    "id1": 10,
+    "name": "Áo choàng tắm",
+    "room_utility_type_id": 2
+  },
+  {
+    "id1": 11,
+    "name": "Máy sấy tóc",
+    "room_utility_type_id": 2
+  },
+  {
+    "id1": 12,
+    "name": "Vòi tắm đứng",
+    "room_utility_type_id": 2
+  },
+  {
+    "id1": 13,
+    "name": "Bồn tắm",
+    "room_utility_type_id": 2
+  },
+  {
+    "id1": 1,
+    "name": "Máy lạnh",
+    "room_utility_type_id": 3
+  },
+  {
+    "id1": 2,
+    "name": "Quầy bar mini",
+    "room_utility_type_id": 3
+  },
+  {
+    "id1": 3,
+    "name": "Bàn làm việc",
+    "room_utility_type_id": 3
+  },
+  {
+    "id1": 4,
+    "name": "Rèm cửa / màn che",
+    "room_utility_type_id": 3
+  },
+  {
+    "id1": 5,
+    "name": "Nước đóng chai miễn phí",
+    "room_utility_type_id": 3
+  },
+  {
+    "id1": 6,
+    "name": "TV",
+    "room_utility_type_id": 3
+  },
+  {
+    "id1": 7,
+    "name": "Két an toàn tại phòng",
+    "room_utility_type_id": 3
+  },
+  {
+    "id1": 1,
+    "name": "Máy lạnh",
+    "room_utility_type_id": 4
+  },
+  {
+    "id1": 2,
+    "name": "Quầy bar mini",
+    "room_utility_type_id": 4
+  },
+  {
+    "id1": 3,
+    "name": "Bàn làm việc",
+    "room_utility_type_id": 4
+  },
+  {
+    "id1": 4,
+    "name": "Rèm cửa / màn che",
+    "room_utility_type_id": 4
+  },
+  {
+    "id1": 5,
+    "name": "Nước đóng chai miễn phí",
+    "room_utility_type_id": 4
+  },
+  {
+    "id1": 6,
+    "name": "TV",
+    "room_utility_type_id": 4
+  },
+  {
+    "id1": 7,
+    "name": "Két an toàn tại phòng",
+    "room_utility_type_id": 4
+  },
+  {
+    "id1": 1,
+    "name": "Máy lạnh",
+    "room_utility_type_id": 5
+  },
+  {
+    "id1": 2,
+    "name": "Quầy bar mini",
+    "room_utility_type_id": 5
+  },
+  {
+    "id1": 3,
+    "name": "Bàn làm việc",
+    "room_utility_type_id": 5
+  },
+  {
+    "id1": 4,
+    "name": "Rèm cửa / màn che",
+    "room_utility_type_id": 5
+  },
+  {
+    "id1": 5,
+    "name": "Nước đóng chai miễn phí",
+    "room_utility_type_id": 5
+  },
+  {
+    "id1": 6,
+    "name": "TV",
+    "room_utility_type_id": 5
+  },
+  {
+    "id1": 7,
+    "name": "Két an toàn tại phòng",
+    "room_utility_type_id": 5
+  },
+  {
+    "id1": 1,
+    "name": "Máy lạnh",
+    "room_utility_type_id": 6
+  },
+  {
+    "id1": 2,
+    "name": "Quầy bar mini",
+    "room_utility_type_id": 6
+  },
+  {
+    "id1": 3,
+    "name": "Bàn làm việc",
+    "room_utility_type_id": 6
+  },
+  {
+    "id1": 4,
+    "name": "Rèm cửa / màn che",
+    "room_utility_type_id": 6
+  },
+  {
+    "id1": 5,
+    "name": "Nước đóng chai miễn phí",
+    "room_utility_type_id": 6
+  },
+  {
+    "id1": 6,
+    "name": "TV",
+    "room_utility_type_id": 6
+  },
+  {
+    "id1": 7,
+    "name": "Két an toàn tại phòng",
+    "room_utility_type_id": 6
+  },
+  {
+    "id1": 1,
+    "name": "Máy lạnh",
+    "room_utility_type_id": 7
+  },
+  {
+    "id1": 2,
+    "name": "Quầy bar mini",
+    "room_utility_type_id": 7
+  },
+  {
+    "id1": 3,
+    "name": "Bàn làm việc",
+    "room_utility_type_id": 7
+  },
+  {
+    "id1": 4,
+    "name": "Rèm cửa / màn che",
+    "room_utility_type_id": 7
+  },
+  {
+    "id1": 5,
+    "name": "Nước đóng chai miễn phí",
+    "room_utility_type_id": 7
+  },
+  {
+    "id1": 6,
+    "name": "TV",
+    "room_utility_type_id": 7
+  },
+  {
+    "id1": 7,
+    "name": "Két an toàn tại phòng",
+    "room_utility_type_id": 7
+  },
+  {
+    "id1": 1,
+    "name": "Máy lạnh",
+    "room_utility_type_id": 8
+  },
+  {
+    "id1": 2,
+    "name": "Quầy bar mini",
+    "room_utility_type_id": 8
+  },
+  {
+    "id1": 3,
+    "name": "Bàn làm việc",
+    "room_utility_type_id": 8
+  },
+  {
+    "id1": 4,
+    "name": "Rèm cửa / màn che",
+    "room_utility_type_id": 8
+  },
+  {
+    "id1": 5,
+    "name": "Nước đóng chai miễn phí",
+    "room_utility_type_id": 8
+  },
+  {
+    "id1": 6,
+    "name": "TV",
+    "room_utility_type_id": 8
+  },
+  {
+    "id1": 7,
+    "name": "Két an toàn tại phòng",
+    "room_utility_type_id": 8
+  },
+  {
+    "id1": 1,
+    "name": "Máy lạnh",
+    "room_utility_type_id": 9
+  },
+  {
+    "id1": 2,
+    "name": "Quầy bar mini",
+    "room_utility_type_id": 9
+  },
+  {
+    "id1": 3,
+    "name": "Bàn làm việc",
+    "room_utility_type_id": 9
+  },
+  {
+    "id1": 4,
+    "name": "Rèm cửa / màn che",
+    "room_utility_type_id": 9
+  },
+  {
+    "id1": 5,
+    "name": "Nước đóng chai miễn phí",
+    "room_utility_type_id": 9
+  },
+  {
+    "id1": 6,
+    "name": "TV",
+    "room_utility_type_id": 9
+  },
+  {
+    "id1": 7,
+    "name": "Két an toàn tại phòng",
+    "room_utility_type_id": 9
+  },
+  {
+    "id1": 1,
+    "name": "Máy lạnh",
+    "room_utility_type_id": 10
+  },
+  {
+    "id1": 2,
+    "name": "Quầy bar mini",
+    "room_utility_type_id": 10
+  },
+  {
+    "id1": 3,
+    "name": "Bàn làm việc",
+    "room_utility_type_id": 10
+  },
+  {
+    "id1": 4,
+    "name": "Rèm cửa / màn che",
+    "room_utility_type_id": 10
+  },
+  {
+    "id1": 5,
+    "name": "Nước đóng chai miễn phí",
+    "room_utility_type_id": 10
+  },
+  {
+    "id1": 6,
+    "name": "TV",
+    "room_utility_type_id": 10
+  },
+  {
+    "id1": 7,
+    "name": "Két an toàn tại phòng",
+    "room_utility_type_id": 10
+  },
+  {
+    "id1": 1,
+    "name": "Máy lạnh",
+    "room_utility_type_id": 11
+  },
+  {
+    "id1": 2,
+    "name": "Quầy bar mini",
+    "room_utility_type_id": 11
+  },
+  {
+    "id1": 3,
+    "name": "Bàn làm việc",
+    "room_utility_type_id": 11
+  },
+  {
+    "id1": 4,
+    "name": "Rèm cửa / màn che",
+    "room_utility_type_id": 11
+  },
+  {
+    "id1": 5,
+    "name": "Nước đóng chai miễn phí",
+    "room_utility_type_id": 11
+  },
+  {
+    "id1": 6,
+    "name": "TV",
+    "room_utility_type_id": 11
+  },
+  {
+    "id1": 7,
+    "name": "Két an toàn tại phòng",
+    "room_utility_type_id": 11
+  },
+  {
+    "id1": 1,
+    "name": "Máy lạnh",
+    "room_utility_type_id": 12
+  },
+  {
+    "id1": 2,
+    "name": "Quầy bar mini",
+    "room_utility_type_id": 12
+  },
+  {
+    "id1": 3,
+    "name": "Bàn làm việc",
+    "room_utility_type_id": 12
+  },
+  {
+    "id1": 4,
+    "name": "Rèm cửa / màn che",
+    "room_utility_type_id": 12
+  },
+  {
+    "id1": 5,
+    "name": "Nước đóng chai miễn phí",
+    "room_utility_type_id": 12
+  },
+  {
+    "id1": 6,
+    "name": "TV",
+    "room_utility_type_id": 12
+  },
+  {
+    "id1": 7,
+    "name": "Két an toàn tại phòng",
+    "room_utility_type_id": 12
+  },
+  {
+    "id1": 1,
+    "name": "Máy lạnh",
+    "room_utility_type_id": 13
+  },
+  {
+    "id1": 2,
+    "name": "Quầy bar mini",
+    "room_utility_type_id": 13
+  },
+  {
+    "id1": 3,
+    "name": "Bàn làm việc",
+    "room_utility_type_id": 13
+  },
+  {
+    "id1": 4,
+    "name": "Rèm cửa / màn che",
+    "room_utility_type_id": 13
+  },
+  {
+    "id1": 5,
+    "name": "Nước đóng chai miễn phí",
+    "room_utility_type_id": 13
+  },
+  {
+    "id1": 6,
+    "name": "TV",
+    "room_utility_type_id": 13
+  },
+  {
+    "id1": 7,
+    "name": "Két an toàn tại phòng",
+    "room_utility_type_id": 13
+  }
+]
